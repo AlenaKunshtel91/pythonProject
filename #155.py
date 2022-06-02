@@ -82,6 +82,6 @@
 # else:
 #     print("число отрицательное")
 #
-fgddfdfhdfgdfgdfgvdsfgdf
 
-
+a=[1,1,2,2,3,3,1]
+print(sum((a.count(x) // 2 for x in (x for x in set(a) if a.count(x) > 1))))
