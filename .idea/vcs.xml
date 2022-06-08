@@ -4,5 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Group_155" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Group_155/Group_155" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/folder-text1.txt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/{Alena1}" vcs="Git" />
   </component>
 </project>
