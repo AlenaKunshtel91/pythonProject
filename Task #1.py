@@ -32,3 +32,14 @@
 # a = 182
 # print("Количество полных недель = ", a // 4)
 # ""
+
+
+def minimum(z,y,x) :
+    m=x
+    if m>y:
+        m=y
+    if m>z:
+        m=z
+        return
+    m1=minimum(z,y,x)
+print("m1:", end= "")
