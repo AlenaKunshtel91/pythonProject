@@ -95,4 +95,3 @@ fox = Fox(age=25)
 plant.do_absorb()
 rabbit.try_eating(is_there_food=not plant.is_dead)
 fox.try_eating(is_there_food=not rabbit.is_dead)
-
