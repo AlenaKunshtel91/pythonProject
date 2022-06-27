@@ -37,11 +37,9 @@ class Live(object):
     is_there_food = False
 
     def __init__(self, age: int = 0):
-
         # check age is valid
         if age < 0:
             raise Exception("age must be a positive number")
-
         self.age = age
         self.print_age()
 
